@@ -1,0 +1,4 @@
+Flask>=3.0,<4
+Werkzeug>=3.0,<4
+selenium>=4.20,<5
+pytest>=8,<9
